@@ -1,0 +1,6 @@
+#folder logs
+.idea/
+out/
+StartForGit.iml
+#ignore files in folder docs, all files with expansion .txt
+docs/*.txt 
