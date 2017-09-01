@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class MainClass {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-
         System.out.println(Add.Plus(Integer.parseInt(reader.readLine()), Integer.parseInt(reader.readLine())));
+        System.out.println("Master branch!");
     }
 }
