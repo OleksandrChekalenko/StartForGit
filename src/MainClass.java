@@ -3,7 +3,7 @@
  */
 public class MainClass {
     public static void main(String[] args) {
-         int result = Add.Plus(7, 6);
-        System.out.println(result);
+         //int result = Add.Plus(7, 6);
+        System.out.println(Add.Plus(7, 6));
     }
 }
