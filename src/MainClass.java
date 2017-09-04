@@ -10,5 +10,6 @@ public class MainClass {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.println(Add.Plus(Integer.parseInt(reader.readLine()), Integer.parseInt(reader.readLine())));
         System.out.println("Hello new Branch!");
+        System.out.println("Master branch!");
     }
 }
