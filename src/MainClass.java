@@ -11,5 +11,6 @@ public class MainClass {
         System.out.println(Add.Plus(Integer.parseInt(reader.readLine()), Integer.parseInt(reader.readLine())));
         System.out.println("Hello new Branch!");
         System.out.println("Master branch!");
+        System.out.println("Origin/Master!");
     }
 }
